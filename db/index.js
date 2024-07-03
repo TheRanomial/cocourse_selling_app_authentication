@@ -2,7 +2,6 @@ const mongoose = require("mongoose");
 
 // Connect to MongoDB
 mongoose.connect(
-  "mongodb+srv://Himanshu:Himanshu%404462@cluster0.xhzcb7p.mongodb.net/test"
 );
 
 // Define schemas
